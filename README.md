@@ -8,6 +8,8 @@ List of open source channel coding projects and libraries from Github.
 
 - [IT++](http://itpp.sourceforge.net/4.3.1/group__fec.html) - IT++ is a C++ library of mathematical, signal processing and communication classes and functions. It also has modules for channel coding. (C++)
 
+- [veeresht/CommPy](https://github.com/veeresht/CommPy/tree/master/commpy/channelcoding) - Digital communication library for Python. (Python)
+
 
 ## Polar Codes
 
@@ -21,16 +23,48 @@ List of open source channel coding projects and libraries from Github.
 
 - [Spartak0s/Polar-Codes-Software-Matlab-](https://github.com/Spartak0s/Polar-Codes-Software-Matlab-) - Simulation for polar codes. (Matlab)
 
+- [RQC-QApp/polar-codes](https://github.com/RQC-QApp/polar-codes) - Python implementation of Polar codes. (Python)
+
 - [xiaoshaoning/polar-codes](https://github.com/xiaoshaoning/polar-codes) - Polar code encoding and successive cancellation decoding in matlab. (Matlab)
+
+- [MashaYudi/PolarCodes](https://github.com/MashaYudi/PolarCodes) - Sequential and List decoders of polar codes. (C++)
+
+- [SherlockHsu/PolarCodes](https://github.com/SherlockHsu/PolarCodes) - Polar code implementation in C and mex wrappers. (C, Matlab)
 
 - [fantasua/PolarCodesMatLab](https://github.com/fantasua/PolarCodesMatLab) - Polar Codes in MatLab. (Matlab)
 
 - [fantasua/PolarCodes](https://github.com/fantasua/PolarCodes) - PolarCodes inplemented in C++. (C++)
 
+- [nicoladefranceschi/PolarCodes](https://github.com/nicoladefranceschi/PolarCodes) - Polar code implementation in C. (C)
+
+- [duckbill360/Polar-Codes](https://github.com/duckbill360/Polar-Codes) - Polar Belief Propagation decoding. (Python)
+
+- [njroussel/PolarCodes](https://github.com/njroussel/PolarCodes) - Matlab implementation of polar codes for a BEC. (Matlab)
+
+- [luxinjin/polar-code](https://github.com/luxinjin/polar-code) - Matlab simulations for polar code. (Matlab)
+
+- [Spartak0s/Polar-Codes-Hardware-VHDL](https://github.com/Spartak0s/Polar-Codes-Hardware-VHDL) - Polar Codes Implementation on VHDL. (VHDL)
+
+- [icehan/polar-codes](https://github.com/icehan/polar-codes) - Polar code implementation in C++. (C++)
+
+- [msddm5618/polar-codes-on-MATLAB](https://github.com/msddm5618/polar-codes-on-MATLAB) - Polar code simulation on MATLAB .
+
+- [egs33/PolarCodes](https://github.com/egs33/PolarCodes) - Polar codes in C++. (C++)
+
+- [willshant/PolarCodes](https://github.com/willshant/PolarCodes) - Polar codes in C. (C)
+
+- [willshant/PolarCodes-DSP](https://github.com/willshant/PolarCodes-DSP) - Polar code implementation on DSP. (C)
+
+- [AbdulRahmanAlHamali/polar-codes-matlab](https://github.com/AbdulRahmanAlHamali/polar-codes-matlab) - A Matlab Implementation of Polar Codes. (Matlab)
+
 - [SebastianCa/LDPC-like-Decoding-of-Polar-Codes](https://github.com/SebastianCa/LDPC-like-Decoding-of-Polar-Codes) - Code for the paper "Sparse Graphs for Belief Propagation Decoding of Polar Codes". (Matlab)
 
+- [polarcodes.info - Simulation package](http://www.polarcodes.info/#download) - Polar code package
 
-### 3GPP 5G NR
+- [Polar coding algorithms in Matlab - Viterbo](https://ecse.monash.edu/staff/eviterbo/polarcodes.html) - Polar coding algorithms in Matlab.
+
+
+### 5G NR
 
 - [xiaoshaoning/5g-polar-code](https://github.com/xiaoshaoning/5g-polar-code) - 5G NR polar code. (Matlab)
 
@@ -79,7 +113,7 @@ List of open source channel coding projects and libraries from Github.
 
 
 
-### 3GPP 5G NR
+### 5G NR
 - [xiaoshaoning/5g-ldpc](https://github.com/xiaoshaoning/5g-ldpc) - 5G NR LDPC codes in Matlab. (Matlab)
 
 - [vodafone-chair/5g-nr-ldpc](https://github.com/vodafone-chair/5g-nr-ldpc) - A 5G NR compliant LDPC library. (Matlab)
@@ -107,12 +141,22 @@ List of open source channel coding projects and libraries from Github.
 
 - [cea-wind/Viterbi-decoder](https://github.com/cea-wind/Viterbi-decoder) - Convolution codes simulation, decoder using the viterbi algorithm. (Matlab)
 
+- [venkat0791/codec](https://github.com/venkat0791/codec) - Python implementation of convolutional and turbo encoder/decoder. (Python)
 
 
 
 ## Turbo Codes
 
+- [HighTemplar-wjiang/TurboCode-matlab](https://github.com/HighTemplar-wjiang/TurboCode-matlab) - Turbo code implementation in Matlab. (Matlab)
+
+- [geeanlooca/deepspace-turbo](https://github.com/geeanlooca/deepspace-turbo) - Implementation of the CCSDS (Consultative Committee for Space Data Systems) standard for Turbo Codes. (C)
+
+- [steguerrini/turbocodes](https://github.com/steguerrini/turbocodes) - Simulator for turbo codes. (C)
+
+
+### LTE
+
 - [robmaunder/turbo-3gpp-matlab](https://github.com/robmaunder/turbo-3gpp-matlab) - Matlab simulations of the encoder and decoder for the LTE turbo code from 3GPP Release 15. (Matlab)
 
-
+- [oldmonkABA/LTE-turbo-codec-golang](https://github.com/oldmonkABA/LTE-turbo-codec-golang) - Turbo code implementations in Go-lang (3GPP LTE). (Go)
 

@@ -153,6 +153,8 @@ List of open source channel coding projects and libraries from Github.
 
 - [steguerrini/turbocodes](https://github.com/steguerrini/turbocodes) - Simulator for turbo codes. (C)
 
+- [ttsou/turbofec](https://github.com/ttsou/turbofec) - TurboFEC - SIMD vectorized LTE turbo and convolutional encoders and decoders. (C)
+
 
 ### LTE
 

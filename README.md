@@ -2,6 +2,19 @@
 List of open source channel coding projects and libraries from Github.
 
 
+## Table of Contents
+
+- [General](#general)
+- [Polar Codes](polar-codes)
+  * [5G NR](#5g-nr)
+- [LDPC Codes](#ldpc-codes)
+  * [5G NR](#5g-nr)
+  * [IEEE 802.11](#ieee-80211)
+- [Convolutional Codes](#convolutional-codes)
+- [Turbo Codes](#turbo-codes)
+  * [4G LTE](#4g-lte)
+
+
 ## General
 
 - [aff3ct/aff3ct](https://github.com/aff3ct/aff3ct) - A fast simulator and a library dedicated to the channel coding. (C++)
@@ -126,7 +139,7 @@ List of open source channel coding projects and libraries from Github.
 
 
 
-### IEEE802.11
+### IEEE 802.11
 
 - [simgunz/802.11n-ldpc](https://github.com/simgunz/802.11n-ldpc) - A matlab implementation of the 802.11n LDPC encoder and decoder. (Matlab)
 
@@ -156,7 +169,7 @@ List of open source channel coding projects and libraries from Github.
 - [ttsou/turbofec](https://github.com/ttsou/turbofec) - TurboFEC - SIMD vectorized LTE turbo and convolutional encoders and decoders. (C)
 
 
-### LTE
+### 4G LTE
 
 - [robmaunder/turbo-3gpp-matlab](https://github.com/robmaunder/turbo-3gpp-matlab) - Matlab simulations of the encoder and decoder for the LTE turbo code from 3GPP Release 15. (Matlab)
 

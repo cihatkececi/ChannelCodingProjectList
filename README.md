@@ -5,7 +5,7 @@ List of open source channel coding projects and libraries from Github.
 ## Table of Contents
 
 - [General](#general)
-- [Polar Codes](polar-codes)
+- [Polar Codes](#polar-codes)
   * [5G NR](#5g-nr)
 - [LDPC Codes](#ldpc-codes)
   * [5G NR](#5g-nr)

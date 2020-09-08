@@ -124,6 +124,7 @@ List of open source channel coding projects and libraries from Github.
 
 - [kir1994/LDPC](https://github.com/kir1994/LDPC) - Nonbinary LDPC codes encoding and decoding implementation. (C++)
 
+- [shubhamchandak94/ProtographLDPC](https://github.com/shubhamchandak94/ProtographLDPC) - Implementation of Protograph LDPC error correction codes (Python)
 
 
 ### 5G NR
